@@ -1,0 +1,7 @@
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\obj\Debug\AlgoritmeCrossOver.csprojAssemblyReference.cache
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\obj\Debug\AlgoritmeCrossOver.csproj.CoreCompileInputs.cache
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\bin\Debug\AlgoritmeCrossOver.exe.config
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\bin\Debug\AlgoritmeCrossOver.exe
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\bin\Debug\AlgoritmeCrossOver.pdb
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\obj\Debug\AlgoritmeCrossOver.exe
+C:\Users\Rilind\source\repos\AlgoritmeCrossOver\AlgoritmeCrossOver\obj\Debug\AlgoritmeCrossOver.pdb
